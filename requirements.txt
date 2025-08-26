@@ -1,7 +1,8 @@
-streamlit
+tensorflow==2.15.0
+tf-keras
 opencv-python-headless==4.8.0.76
+streamlit
 pandas
 numpy
 plotly
 deepface
-
