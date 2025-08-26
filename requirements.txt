@@ -1,0 +1,10 @@
+streamlit>=1.32.0
+opencv-python>=4.9.0.80
+pandas>=2.2.0
+numpy>=1.26.0
+deepface>=0.0.93
+tensorflow>=2.11.0
+keras>=2.11.0
+plotly>=5.20.0
+Pillow>=10.0.0
+base64io>=1.0.0
